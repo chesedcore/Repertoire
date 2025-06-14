@@ -1,2 +1,2 @@
 # Repertoire
-A machine learning walkthrough from the ground up, purely for learning purposes. 
+A machine learning resource/library from the ground up, purely for learning purposes. 
